@@ -1,0 +1,12 @@
+
+out/
+bin-debug/
+.idea/workspace.xml
+.idea/uiDesigner.xml
+.idea/encodings.xml
+.settings/
+.project
+.actionScriptProperties
+workspace/settings/editor_template.json
+workspace/settings/recent_open.json
+workspace/settings/libs.json
