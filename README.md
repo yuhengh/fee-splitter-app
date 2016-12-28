@@ -14,6 +14,14 @@ If you are using other IDEs, you should set src/Main.as as main class for mobile
 
 http://yuhengh.github.io/fee-splitter-app/deliverable/web.html
 
+The app is also available on iOS App Store
+
+https://itunes.apple.com/us/app/fee-splitter/id1188854919
+
+and Google Play
+
+https://play.google.com/store/apps/details?id=air.johannh.FeeSplitter
+
 
 ### Editing layouts
 
